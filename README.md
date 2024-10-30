@@ -35,12 +35,12 @@ This repository contains an ELO replica, a point of sale project developed durin
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/usamafayaz/ELO-Replica.git
+    git clone https://github.com/usamafayaz/elo-replica.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd ELO-Replica
+    cd elo-replica
     ```
 
 3. Open the project in Visual Studio.
